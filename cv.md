@@ -7,7 +7,7 @@
 * **GitHub:** [mightyprinces](https://github.com/mightyprinces)
 
 ### About Me
-I'm a UI designer and I wanted to switch my profession on frontend developer. I'm starting this course for the 4th time... I have no big expectations from myself. I know I'm not disciplined enough to finish this course. But for this years I learned to solve LeetCode problems, it gave me a better understanding of some algorithms and programming in general. I mostly solved Easy problems, but there are also 29 Medium and even 1 Hard problem. To be honest, some of them where only solved after looking for ready-made solutions. And another one cute thing that I liked during this LeetCode journey was getting my first badge - 50 Days Badge 2024.
+I'm a UI designer, and I want to grow into a frontend developer. This course is my next step toward that goal. Over the past few years, I’ve practiced solving LeetCode problems, which gave me a stronger understanding of algorithms and programming in general. I’ve solved many Easy problems, along with 29 Medium and even 1 Hard problem. Sometimes I needed hints or ready-made solutions, but each of them helped me learn new approaches and improve my problem-solving skills. One of the most inspiring moments of this journey was earning my first badge — the 50 Days Badge 2024. Now I’m excited to keep learning and to finally build a solid foundation in frontend development.
 
 ### Skills
 * HTML
